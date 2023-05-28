@@ -10,7 +10,7 @@ I am a mobile developer who loves flutter but crashes with kotlin.
 * 🖥️  See my portfolio at [MyPortofolio](http://herisarwanto.netlify.app)
 * ✉️  You can contact me at [herysarwanto17@gmail.com](mailto:herysarwanto17@gmail.com)
 * 🚀  I'm currently working on [Majoo Indonesia](http://majoo.id)
-* 🧠  I'm learning Flutter, Kotlin, Laravel
+* 🧠  I'm learning Flutter & Kotlin
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
