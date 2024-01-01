@@ -1,4 +1,4 @@
-Hi , I'm Heri Sarwanto
+Hi 👋, I'm Heri Sarwanto
 ==============================
 
 Mobile Developer
