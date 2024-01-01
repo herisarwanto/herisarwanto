@@ -9,7 +9,7 @@ I am a mobile developer who loves Flutter but crashes with Kotlin.
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [MyPortofolio](http://herisarwanto.netlify.app)
 * ✉️  You can contact me at [herysarwanto17@gmail.com](mailto:herysarwanto17@gmail.com)
-* 🚀  I'm currently working on [Freelance]
+* 🚀  I'm currently working with Flutter, Kotlin & more ❤️
 * 🧠  I have experience in Flutter and Kotlin
 * 🤝  I'm open to collaborating on Projects
 
