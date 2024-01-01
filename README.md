@@ -1,7 +1,7 @@
 Hi 👋, I'm Heri Sarwanto
 ==============================
 
-Mobile Developer
+Mobile App Developer
 ----------------
 
 I am a mobile developer who loves Flutter but crashes with Kotlin.
