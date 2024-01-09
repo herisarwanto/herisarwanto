@@ -10,7 +10,7 @@ I am a mobile developer who loves Flutter but crashes with Kotlin.
 * 🎨  See my portfolio at [MyPortofolio](https://herisarwanto.github.io/portofolio.herisarwanto/)
 * 📱  You can contact me at [herysarwanto17@gmail.com](mailto:herysarwanto17@gmail.com)
 * 🚀  I'm currently working with Flutter, Kotlin & more ❤️
-* 📚  I have experience in Flutter and Kotlin
+* 📚  I have experience in Mobile App Development
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
